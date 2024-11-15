@@ -1,0 +1,506 @@
+# Copyright (C) 2024 Asad Ullah
+# This file is distributed under the same license as the Real Estate Inventory Plugin plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Estate Inventory Plugin 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wer_pk\n"
+"POT-Creation-Date: 2024-10-24T08:51:11+02:00\n"
+"PO-Revision-Date: 2024-10-24 11:53+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Domain: wer_pk\n"
+
+#. Plugin Name of the plugin
+#: index.php
+msgid "Real Estate Inventory Plugin"
+msgstr "ریئل اسٹیٹ انوینٹری پلگ ان"
+
+#. Author of the plugin
+#: index.php
+msgid "Asad Ullah"
+msgstr "اسد اللہ"
+
+#. Author URI of the plugin
+#: index.php
+msgid "https://github.com/nothing"
+msgstr "https://github.com/nothing"
+
+#: adminpages/views/orders_detail/order-details-form.php:7
+msgid "This order is already confirmed. Please add new from the orders page."
+msgstr "یہ آرڈر پہلے ہی تصدیق شدہ ہے۔ براہ کرم آرڈرز کے صفحے سے نیا شامل کریں."
+
+#: adminpages/views/orders_detail/order-details-form.php:13
+#: adminpages/views/orders_detail/order-details-form.php:33
+msgid "Bill No: "
+msgstr "بل نمبر: "
+
+#: adminpages/views/orders_detail/order-details-form.php:17
+#: adminpages/views/orders_detail/order-details-form.php:37
+msgid "Dated: "
+msgstr "تاریخ: "
+
+#: adminpages/views/orders_detail/order-details-form.php:18
+#: adminpages/views/orders_detail/order-details-form.php:38
+msgid "Expense Type: "
+msgstr "اخراجات کی قسم: "
+
+#: adminpages/views/orders_detail/order-details-form.php:42
+msgid "Add Item"
+msgstr "آئٹم شامل کریں"
+
+#: adminpages/views/orders_detail/order-details-form.php:60
+msgid "Select a Supplier"
+msgstr "ایک سپلائر منتخب کریں"
+
+#: adminpages/views/orders_detail/order-details-form.php:62
+msgid "Please Select A Supplier."
+msgstr "براہ کرم ایک سپلائر منتخب کریں."
+
+#: adminpages/views/orders_detail/order-details-form.php:72
+msgid "Select Item"
+msgstr "آئٹم کو منتخب کریں"
+
+#: adminpages/views/orders_detail/order-details-form.php:75
+msgid "Please Select An Item."
+msgstr "براہ کرم ایک آئٹم منتخب کریں."
+
+#: adminpages/views/orders_detail/order-details-form.php:81
+#: frontend/views/seller_form.php:57
+msgid "Quantity"
+msgstr "مقدار"
+
+#: adminpages/views/orders_detail/order-details-form.php:85
+#: adminpages/views/orders_detail/order-details.php:22
+#: frontend/views/orders.php:61 frontend/views/seller_form.php:69
+msgid "Discount %"
+msgstr "رعایت %"
+
+#: adminpages/views/orders_detail/order-details-form.php:89
+#: adminpages/views/orders_detail/order-details.php:23
+#: frontend/views/orders.php:59 frontend/views/sellers.php:22
+#: frontend/views/seller_form.php:61
+msgid "GST"
+msgstr "جی ایس ٹی"
+
+#: adminpages/views/orders_detail/order-details-form.php:93
+#: frontend/views/sellers.php:25
+msgid "Price"
+msgstr "قیمت"
+
+#: adminpages/views/orders_detail/order-details-form.php:113
+#: adminpages/views/projects/projects_form.php:78
+#: adminpages/views/projects_form.php:78
+#: adminpages/views/project_detail/project-details-form.php:57
+#: frontend/views/seller_form.php:88
+msgid "Update Changes"
+msgstr "تبدیلیاں اپ ڈیٹ کریں"
+
+#: adminpages/views/orders_detail/order-details-form.php:125
+msgid "Save item"
+msgstr "آئٹم کو محفوظ کریں"
+
+#: adminpages/views/orders_detail/order-details-form.php:145
+#: adminpages/views/orders_detail/order-details-form.php:152
+msgid "Confirm Order"
+msgstr "تصدیق شدہ"
+
+#: adminpages/views/orders_detail/order-details.php:8
+#: adminpages/views/projects.php:8 adminpages/views/projects/projects.php:8
+#: adminpages/views/project_detail/project-details.php:9
+#: frontend/views/orders.php:54 frontend/views/sellers.php:10
+#: frontend/views/variants.php:10
+msgid "Id"
+msgstr "آئی ڈی"
+
+#: adminpages/views/orders_detail/order-details.php:9
+#: adminpages/views/projects.php:9 adminpages/views/projects.php:11
+#: adminpages/views/projects/projects.php:9
+#: adminpages/views/projects/projects.php:11
+#: adminpages/views/projects/projects_form.php:9
+#: adminpages/views/projects_form.php:9
+msgid "Project Name"
+msgstr "پروجیکٹ کا نام"
+
+#: adminpages/views/orders_detail/order-details.php:11
+#: frontend/views/orders.php:57
+msgid "Material Name"
+msgstr "مواد کا نام"
+
+#: adminpages/views/orders_detail/order-details.php:17
+#: adminpages/views/projects.php:17 adminpages/views/projects/projects.php:17
+#: adminpages/views/project_detail/project-details.php:18
+msgid "Sort ascending."
+msgstr "صعودی ترتیب دیں."
+
+#: adminpages/views/orders_detail/order-details.php:21
+#: frontend/views/orders.php:58
+msgid "Quanity"
+msgstr "مقدار"
+
+#: adminpages/views/orders_detail/order-details.php:24
+#: adminpages/views/project_detail/project-details.php:25
+#: frontend/views/orders.php:60
+msgid "Order Price"
+msgstr "آرڈر کی قیمت"
+
+#: adminpages/views/orders_detail/order-details.php:39
+#: adminpages/views/projects.php:38 adminpages/views/projects/projects.php:43
+#: adminpages/views/project_detail/project-details.php:39
+msgid "Search Projects:"
+msgstr "پروجیکٹس تلاش کریں:"
+
+#: adminpages/views/orders_detail/order-details.php:41
+#: adminpages/views/projects.php:40 adminpages/views/projects/projects.php:45
+#: adminpages/views/project_detail/project-details.php:41
+msgid "Search Projects"
+msgstr "پروجیکٹس تلاش کریں"
+
+#: adminpages/views/orders_detail/order-details.php:48
+msgid "No orders Found. Please start adding orders."
+msgstr "کوئی آرڈر نہیں ملا۔ براہ کرم آرڈرز شامل کرنا شروع کریں."
+
+#: adminpages/views/projects.php:21 adminpages/views/projects/projects.php:21
+msgid "Size"
+msgstr "سائز"
+
+#: adminpages/views/projects.php:22 adminpages/views/projects/projects.php:22
+msgid "Location"
+msgstr "مقام"
+
+#: adminpages/views/projects.php:23 adminpages/views/projects/projects.php:23
+msgid "Start Date"
+msgstr "آغاز کی تاریخ"
+
+#: adminpages/views/projects.php:24 adminpages/views/projects/projects.php:24
+msgid "Status"
+msgstr "حیثیت"
+
+#: adminpages/views/projects.php:79 adminpages/views/projects/projects.php:53
+#: adminpages/views/project_detail/project-details.php:50
+msgid "No projects Found. Please start adding projects."
+msgstr "کوئی پروجیکٹ نہیں ملا۔ براہ کرم پروجیکٹس شامل کرنا شروع کریں."
+
+#: adminpages/views/projects/projects_form.php:3
+#: adminpages/views/projects_form.php:3
+msgid "Projects"
+msgstr "پروجیکٹس"
+
+#: adminpages/views/projects/projects_form.php:15
+#: adminpages/views/projects_form.php:15
+msgid "Project Size"
+msgstr "پروجیکٹ کا سائز"
+
+#: adminpages/views/projects/projects_form.php:26
+#: adminpages/views/projects_form.php:26
+msgid "Project Location"
+msgstr "پروجیکٹ کا مقام"
+
+#: adminpages/views/projects/projects_form.php:32
+#: adminpages/views/projects_form.php:32
+msgid "Project Start Date"
+msgstr "پروجیکٹ شروع ہونے کی تاریخ"
+
+#: adminpages/views/projects/projects_form.php:43
+#: adminpages/views/projects_form.php:43
+msgid "Project Status"
+msgstr "پروجیکٹ کی حیثیت"
+
+#: adminpages/views/projects/projects_form.php:55
+#: adminpages/views/projects_form.php:55
+msgid "Hold Project"
+msgstr "پروجیکٹ کو روکیں"
+
+#: adminpages/views/projects/projects_form.php:91
+#: adminpages/views/projects_form.php:91
+msgid "Save Project"
+msgstr "پروجیکٹ کو محفوظ کریں"
+
+#: adminpages/views/project_detail/project-details-form.php:3
+#: frontend/views/header.php:18
+msgid "Orders"
+msgstr "احکامات"
+
+#: adminpages/views/project_detail/project-details-form.php:13
+msgid "Order #"
+msgstr "آرڈر #"
+
+#: adminpages/views/project_detail/project-details-form.php:17
+#: adminpages/views/project_detail/project-details.php:23
+msgid "Expense Type"
+msgstr "اخراجات کی قسم"
+
+#: adminpages/views/project_detail/project-details-form.php:21
+msgid "Order Date"
+msgstr "آرڈر کی تاریخ"
+
+#: adminpages/views/project_detail/project-details-form.php:30
+msgid "Order Notes / Description"
+msgstr "آرڈر نوٹس / تفصیل"
+
+#: adminpages/views/project_detail/project-details-form.php:69
+msgid "Save Order"
+msgstr "آرڈر محفوظ کریں"
+
+#: adminpages/views/project_detail/project-details.php:12
+msgid "Bill No"
+msgstr "بل نمبر"
+
+#: adminpages/views/project_detail/project-details.php:22
+msgid "Description"
+msgstr "تفصیل"
+
+#: adminpages/views/project_detail/project-details.php:24
+msgid "Bill Date"
+msgstr "بل کی تاریخ"
+
+#: classes/class-products.php:168
+msgid "New Product Added."
+msgstr "نئی پروڈکٹ شامل کی گئی."
+
+#: classes/class-products.php:226
+msgid "Product Updated successfully."
+msgstr "پروڈکٹ کو کامیابی سے اپ ڈیٹ کر دیا گیا."
+
+#: classes/class-products.php:417
+msgid "Product deleted successfully."
+msgstr "پروڈکٹ کو کامیابی کے ساتھ حذف کر دیا گیا."
+
+#: classes/class-products.php:433
+msgid "Select product Variant(s): "
+msgstr "پروڈکٹ کی مختلف قسمیں منتخب کریں: "
+
+#: classes/class-products.php:435
+msgid "Select product Variant(s)"
+msgstr "پروڈکٹ کی مختلف قسمیں منتخب کریں"
+
+#: classes/class-products.php:447
+msgid "Manage Variants"
+msgstr "متغیرات کا نظم کریں"
+
+#: classes/class-products.php:514
+msgid "New Product Variant Added."
+msgstr "نیا پروڈکٹ ویرینٹ شامل کیا گیا."
+
+#: classes/class-products.php:566
+msgid "Product's variant deleted successfully."
+msgstr "پروڈکٹ کا ویرینٹ کامیابی کے ساتھ حذف ہو گیا."
+
+#: classes/class-products.php:592
+msgid "Selected Product's variant deleted successfully."
+msgstr "منتخب پروڈکٹ کا ویرینٹ کامیابی کے ساتھ حذف ہو گیا."
+
+#: classes/class-products.php:615
+msgid "Product's variant updated successfully."
+msgstr "پروڈکٹ کا ویرینٹ کامیابی کے ساتھ اپ ڈیٹ ہو گیا."
+
+#: classes/class-wer_pkShortcodes.php:46
+msgid "You are already logged in."
+msgstr "آپ پہلے ہی لاگ ان ہیں۔"
+
+#: classes/class-settings.php:239
+msgid "Settings"
+msgstr "ترتیبات"
+
+#: classes/class-settings.php:256
+msgid "Select Currency"
+msgstr "کرنسی کا انتخاب کریں"
+
+#: classes/class-settings.php:257
+msgid "Selected currency will be rendered on the front end."
+msgstr "منتخب کرنسی سامنے والے سرے پر پیش کی جائے گی."
+
+#: classes/class-settings.php:269
+msgid "Main settings"
+msgstr "اہم ترتیبات"
+
+#: classes/class-settings.php:317
+msgid "You do not have sufficient permissions to access this page."
+msgstr "آپ کے پاس اس صفحہ تک رسائی کے لیے کافی اجازتیں نہیں ہیں."
+
+#: classes/class-settings.php:321
+msgid "Main Plugin Page"
+msgstr "مین پلگ ان کا صفحہ"
+
+#: classes/class-settings.php:344
+msgid "Field data missing."
+msgstr "فیلڈ ڈیٹا غائب ہے."
+
+#. translators: %s contains constant name
+#: classes/class-settings.php:403
+msgctxt "%s contains constant name"
+msgid "Option is defined in the following constant: %s"
+msgstr "اختیار کی وضاحت درج ذیل مستقل میں کی گئی ہے: %s"
+
+#: classes/class-wp-order-detail-list-table.php:1471
+#: classes/class-wp-project-detail-list-table.php:1471
+#: classes/class-wp_projects_list_table.php:1480 frontend/views/sellers.php:47
+#: frontend/views/variants.php:32
+msgid "Edit"
+msgstr "ترمیم کریں"
+
+#: classes/class-wp-order-detail-list-table.php:1474
+#: classes/class-wp-project-detail-list-table.php:1474
+#: classes/class-wp_projects_list_table.php:1483 frontend/views/sellers.php:50
+#: frontend/views/variants.php:35
+msgid "Delete"
+msgstr "حذف کریں"
+
+#: classes/class-wp-order-detail-list-table.php:1492
+msgid "Gross Total:"
+msgstr "مجموعی کل:"
+
+#: classes/class-wp-project-detail-list-table.php:1473
+msgid "Are you sure?"
+msgstr "کیا آپ کو یقین ہے؟"
+
+#: classes/class-wp-project-detail-list-table.php:1493
+msgid "Grand Total:"
+msgstr "مجموعی کل:"
+
+#: classes/class-wp_projects_list_table.php:1490
+msgid "In Progress"
+msgstr "جاری ہے"
+
+#: frontend/views/header.php:17
+msgid "Products"
+msgstr "مصنوعات"
+
+#: frontend/views/header.php:21
+msgid "Log Out"
+msgstr "لاگ آؤٹ کریں"
+
+#: frontend/views/orders.php:5 frontend/views/orders.php:37
+msgid "Confirmed"
+msgstr "تصدیق شدہ"
+
+#: frontend/views/orders.php:6
+msgid "Pending"
+msgstr "زیر التواء"
+
+#: frontend/views/orders.php:7 frontend/views/orders.php:77
+msgid "Processed"
+msgstr "پروسیس شدہ"
+
+#: frontend/views/orders.php:8
+msgid "All"
+msgstr "تمام"
+
+#: frontend/views/orders.php:28
+msgid "Referance Bill #:"
+msgstr "حوالہ بل #:"
+
+#: frontend/views/orders.php:33
+msgid "Bill Date:"
+msgstr "بل کی تاریخ:"
+
+#: frontend/views/orders.php:37
+msgid "Processed Successfully"
+msgstr "کامیابی سے کارروائی کی گئی"
+
+#: frontend/views/orders.php:47
+msgid "Description:"
+msgstr "آرڈر نوٹس / تفصیل"
+
+#: frontend/views/orders.php:55
+msgid "Bill Id"
+msgstr "بل آئی ڈی"
+
+#: frontend/views/orders.php:56
+msgid "Product Id"
+msgstr "پروڈکٹ کی شناخت"
+
+#: frontend/views/orders.php:89
+msgid "No orders Found. Please come back later."
+msgstr "کوئی آرڈر نہیں ملا۔ براہ کرم بعد میں واپس آئیں."
+
+#: frontend/views/sellers.php:13
+msgid "Product(s)"
+msgstr "پروڈکٹ کا نام"
+
+#: frontend/views/sellers.php:16
+msgid "SKU"
+msgstr "SKU"
+
+#: frontend/views/sellers.php:19
+msgid "Stock"
+msgstr "اسٹاک"
+
+#: frontend/views/sellers.php:28
+msgid "Discount"
+msgstr "رعایت %"
+
+#: frontend/views/sellers.php:68
+msgid "No products Found. Please start adding products."
+msgstr "کوئی پروڈکٹس نہیں ملے۔ براہ کرم مصنوعات شامل کرنا شروع کریں."
+
+#: frontend/views/seller_form.php:25
+msgid "Add Product(s)"
+msgstr "پروڈکٹ شامل کریں"
+
+#: frontend/views/seller_form.php:34
+msgid "Manage Product Variants"
+msgstr "پروڈکٹ ویریئنٹس کا نظم کریں"
+
+#: frontend/views/seller_form.php:47
+msgid "Product Name"
+msgstr "پروڈکٹ کا نام"
+
+#: frontend/views/seller_form.php:65
+msgid "Product Price"
+msgstr "پروڈکٹ کی قیمت"
+
+#: frontend/views/seller_form.php:100
+msgid "Save product"
+msgstr "پروڈکٹ کو محفوظ کریں"
+
+#: frontend/views/seller_form.php:118
+msgid "Product Variants"
+msgstr "مصنوعات کی مختلف حالتیں"
+
+#: frontend/views/seller_form.php:124
+msgid "Submit"
+msgstr "جمع کروائیں"
+
+#: frontend/views/variants.php:16
+msgid "Product(s) Variant Name"
+msgstr "پروڈکٹ کا نام"
+
+#: frontend/views/variants.php:48
+msgid "No product's variants Found. Please start adding product's variants."
+msgstr "پروڈکٹ کی کوئی قسم نہیں ملی۔ براہ کرم پروڈکٹ کی مختلف قسمیں شامل کرنا شروع کریں۔"
+
+#: templates/form-login.php:2
+msgid "Login"
+msgstr "للاگ ان کریں"
+
+#: templates/form-login.php:6
+msgid "Username or Email Address"
+msgstr "صارف نام یا ای میل ایڈریس"
+
+#: templates/form-login.php:10 templates/registration.php:9
+msgid "Password"
+msgstr "پاس ورڈ"
+
+#: templates/form-login.php:18
+msgid "Forgot Password?"
+msgstr "پاس ورڈ بھول گئے؟"
+
+#: templates/form-login.php:18 templates/registration.php:12
+msgid "Register"
+msgstr "رجسٹر کريں"
+
+#: templates/registration.php:3
+msgid "Username"
+msgstr "صارف کا نام"
+
+#: templates/registration.php:6
+msgid "Email"
+msgstr "ای میل"
+
+#~ msgid "No product"
+#~ msgstr "کوئی پروڈکٹ نہیں"

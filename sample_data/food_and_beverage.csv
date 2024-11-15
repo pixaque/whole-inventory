@@ -1,0 +1,47 @@
+table_name,id,site_name,site_size,site_location,start_date,status,,,,
+wp_projects,1,Restaurant Renovation,15,xyz 789. 456,2024-10-27,1,,,,
+,,,,,,,,,,
+table_name,id,projectid,billNo,expenseType,billdate,description,orderTotal,confirmed,,
+wp_projects_details,1,1,INV-20241027-abcdef01,Misc,2024-10-27,Interior Design,15000,1,,
+wp_projects_details,2,1,INV-20241027-abcdef02,Misc,2024-10-27,Kitchen Equipment,25000,0,,
+wp_projects_details,3,1,INV-20241027-abcdef03,Misc,2024-10-27,Seating and Tables,875,0,,  # Updated orderTotal
+wp_projects_details,4,1,INV-20241027-abcdef04,Misc,2024-10-27,Lighting Fixtures,412.5,0,,  # Updated orderTotal
+,,,,,,,,,,
+table_name,id,storeId,materialsName,,,,,,,
+wp_products,1,3,Olive Oil,,,,,,,
+wp_products,2,3,Pasta,,,,,,,
+wp_products,3,2,Organic Vegetables,,,,,,,
+wp_products,4,2,Herbs,,,,,,,
+,,,,,,,,,,
+table_name,attribute_id,attributeName,,,,,,,,
+wp_product_attributes,1,Quality,,,,,,,,
+wp_product_attributes,2,Size,,,,,,,,
+wp_product_attributes,3,Type,,,,,,,,
+wp_product_attributes,4,Brand,,,,,,,,
+,,,,,,,,,,
+table_name,variant_id,product_id,variantSKU,variantStock,variantPrice,variantDiscount,variantGST,,,
+wp_product_variants,1,1,SKU-101,200,12.99,0,1.5,,,
+wp_product_variants,2,2,SKU-102,150,1.99,5,0.5,,,
+wp_product_variants,3,3,SKU-103,300,3.50,10,0.5,,,
+wp_product_variants,4,4,SKU-104,250,2.75,0,0.25,,,
+,,,,,,,,,,
+table_name,id,billid,supplierName,productid,materialsName,quantity,GST,totalPrice,discount,processed
+wp_project_order,1,1,3,1,"SKU-101 - Olive Oil Quality: Extra Virgin",100,15,1299,0,1
+wp_project_order,2,1,3,1,"SKU-101 - Olive Oil Quality: Extra Virgin",50,15,649.5,0,1
+wp_project_order,3,1,3,1,"SKU-101 - Olive Oil Quality: Extra Virgin",30,15,389.7,0,1
+wp_project_order,4,2,3,2,"SKU-102 - Pasta Quality: Organic, Size: 500g",200,5,398,5,0
+wp_project_order,5,2,3,2,"SKU-102 - Pasta Quality: Organic, Size: 500g",150,5,298.5,5,0
+wp_project_order,6,3,2,3,"SKU-103 - Organic Vegetables Quality: Fresh, Size: 1kg",150,0,525,10,0
+wp_project_order,7,3,2,3,"SKU-103 - Organic Vegetables Quality: Fresh, Size: 1kg",100,0,350,10,0
+wp_project_order,8,4,2,4,"SKU-104 - Herbs Quality: Fresh, Size: 100g",100,0,275,0,0
+wp_project_order,9,4,2,4,"SKU-104 - Herbs Quality: Fresh, Size: 100g",50,0,137.5,0,0
+,,,,,,,,,,
+table_name,variant_id,attribute_id,attributeValue,,,,,,,
+wp_variant_attributes,1,1,Extra Virgin,,,,,,,
+wp_variant_attributes,1,2,1L,,,,,,,
+wp_variant_attributes,2,1,Organic,,,,,,,
+wp_variant_attributes,2,2,500g,,,,,,,
+wp_variant_attributes,3,1,Fresh,,,,,,,
+wp_variant_attributes,3,2,1kg,,,,,,,
+wp_variant_attributes,4,1,Fresh,,,,,,,
+wp_variant_attributes,4,2,100g,,,,,,,

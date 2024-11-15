@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\settings\\class-settings.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\settings\\class-settings.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\main\\class-main.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\class-main.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\projects\\class-projects.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\projects\\class-projects.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\class-wp-wer_pk-blocks.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\class-wp-wer_pk-blocks.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\admin\\assets\\wer_pk-script.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\assets\\wer_pk-script.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "class-main.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\main\\class-main.php",
+              "RelativeDocumentMoniker": "src\\main\\class-main.php",
+              "ToolTip": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\main\\class-main.php",
+              "RelativeToolTip": "src\\main\\class-main.php",
+              "ViewState": "AQIAALYAAAAAAAAAAAAgwL8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-27T17:48:24.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "class-settings.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\settings\\class-settings.php",
+              "RelativeDocumentMoniker": "src\\settings\\class-settings.php",
+              "ToolTip": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\settings\\class-settings.php",
+              "RelativeToolTip": "src\\settings\\class-settings.php",
+              "ViewState": "AQIAAMoAAAAAAAAAAAApwNcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-27T17:38:01.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "class-projects.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\projects\\class-projects.php",
+              "RelativeDocumentMoniker": "src\\projects\\class-projects.php",
+              "ToolTip": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\projects\\class-projects.php",
+              "RelativeToolTip": "src\\projects\\class-projects.php",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-27T14:16:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "wer_pk-script.js",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\admin\\assets\\wer_pk-script.js",
+              "RelativeDocumentMoniker": "admin\\assets\\wer_pk-script.js",
+              "ToolTip": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\admin\\assets\\wer_pk-script.js",
+              "RelativeToolTip": "admin\\assets\\wer_pk-script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-26T20:12:57.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "class-wp-wer_pk-blocks.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\class-wp-wer_pk-blocks.php",
+              "RelativeDocumentMoniker": "src\\class-wp-wer_pk-blocks.php",
+              "ToolTip": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\src\\class-wp-wer_pk-blocks.php",
+              "RelativeToolTip": "src\\class-wp-wer_pk-blocks.php",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-25T22:16:59.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\test-plugin\\index.php",
+              "RelativeToolTip": "index.php",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-25T22:22:27.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

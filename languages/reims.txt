@@ -1,0 +1,85 @@
+﻿Real Estate Inventory Plugin
+Asad Ullah
+https://github.com/nothing
+This order is already confirmed. Please add new from the orders page.
+Bill No: 
+Dated: 
+Expense Type: 
+Add Item
+Select a Supplier
+Select Item
+Quantity
+Discount %
+GST
+Price
+Id
+Project Name
+Material Name
+Sort ascending.
+Quanity
+Order Price
+Search Projects:
+Search Projects
+No orders Found. Please start adding orders.
+Size
+Location
+Start Date
+Status
+No projects Found. Please start adding projects.
+Projects
+Project Size
+Project Location
+Project Start Date
+Project Status
+Hold Project
+Update Changes
+Save Project
+Orders
+Order #
+Expense Type
+Order Date
+Order Notes / Description
+Save Order
+Bill No
+Description
+Bill Date
+New Product Added.
+Product Updated successfully.
+Product deleted successfully.
+Select product Variant(s): 
+Select product Variant(s)
+Manage Variants
+New Product Variant Added.
+Product's variant deleted successfully.
+Selected Product's variant deleted successfully.
+Product's variant updated successfully.
+Edit
+Are you sure?
+Delete
+Products
+Log Out
+Confirmed
+Pending
+Processed
+All
+Referance Bill #:
+Bill Date:
+Processed Successfully
+Description:
+Bill Id
+Product Id
+No orders Found. Please come back later.
+Product(s)
+SKU
+Stock
+Discount
+No products Found. Please start adding products.
+Add Product(s)
+Manage Product Variants
+Product Name
+Product Price
+Save product
+Product Variants
+Submit
+Product(s) Variant Name
+No product

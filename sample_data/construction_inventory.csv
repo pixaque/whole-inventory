@@ -1,0 +1,44 @@
+table_name,id,site_name,site_size,site_location,start_date,status,,,,
+wp_projects,1,New Building Project,10,abc 456. 789,2024-10-27,1,,,,
+,,,,,,,,,,
+table_name,id,projectid,billNo,expenseType,billdate,description,orderTotal,confirmed,,
+wp_projects_details,1,1,INV-20241027-123456abc,Misc,2024-10-27,Site Preparation Costs,10250,1,,
+wp_projects_details,2,1,INV-20241027-123456def,Misc,2024-10-27,Foundation Work,20500,1,,
+wp_projects_details,3,1,INV-20241027-123456ghi,Misc,2024-10-27,Framing Materials,15000,0,,
+wp_projects_details,4,1,INV-20241027-123456jkl,Misc,2024-10-27,Roofer Fees,3000,0,,
+,,,,,,,,,,
+table_name,id,storeId,materialsName,,,,,,,
+wp_products,1,2,Cement,,,,,,,
+wp_products,2,2,Steel Rebar,,,,,,,
+wp_products,3,3,Concrete Mix,,,,,,,
+wp_products,4,3,Wood Planks,,,,,,,
+,,,,,,,,,,
+table_name,attribute_id,attributeName,,,,,,,,
+wp_product_attributes,1,Quality,,,,,,,,
+wp_product_attributes,2,Size,,,,,,,,
+wp_product_attributes,3,Type,,,,,,,,
+wp_product_attributes,4,Brand,,,,,,,,
+,,,,,,,,,,
+table_name,variant_id,product_id,variantSKU,variantStock,variantPrice,variantDiscount,variantGST,,,
+wp_product_variants,1,1,SKU-001,1000,5.50,0,1.5,,,
+wp_product_variants,2,2,SKU-002,500,12.99,5,1.2,,,
+wp_product_variants,3,3,SKU-003,300,7.75,10,0,,,
+wp_product_variants,4,4,SKU-004,250,4.00,0,0.5,,,
+,,,,,,,,,,
+table_name,id,billid,supplierName,productid,materialsName,quantity,GST,totalPrice,discount,processed
+wp_project_order,1,1,2,1,"SKU-001 - Cement Quality: High, Size: 50kg",200,30,1100,0,1
+wp_project_order,2,1,2,2,"SKU-002 - Steel Rebar Quality: Grade A, Size: 12mm",100,0,1299,5,1
+wp_project_order,3,1,3,3,"SKU-003 - Concrete Mix Quality: Premium, Size: 1m³",50,0,387.5,10,1
+wp_project_order,4,2,2,1,"SKU-001 - Cement Quality: High, Size: 50kg",150,30,825,0,0
+wp_project_order,5,2,2,2,"SKU-002 - Steel Rebar Quality: Grade A, Size: 12mm",75,0,974.25,5,0
+wp_project_order,6,3,3,3,"SKU-003 - Concrete Mix Quality: Premium, Size: 1m³",30,0,232.5,10,0
+wp_project_order,7,4,2,1,"SKU-001 - Cement Quality: High, Size: 50kg",100,30,550,0,0
+wp_project_order,8,4,3,4,"SKU-004 - Wood Planks Quality: Premium, Size: 2m",20,0,80,0,0
+,,,,,,,,,,
+table_name,variant_id,attribute_id,attributeValue,,,,,,,
+wp_variant_attributes,1,1,High,,,,,,,
+wp_variant_attributes,1,2,50kg,,,,,,,
+wp_variant_attributes,2,1,Grade A,,,,,,,
+wp_variant_attributes,2,2,12mm,,,,,,,
+wp_variant_attributes,3,1,Premium,,,,,,,
+wp_variant_attributes,3,2,1m³,,,,,,,

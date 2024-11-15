@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\reims\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\reims\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\reims\\classes\\class-wer_pkdb.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classes\\class-wer_pkdb.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\reims\\classes\\class-projects.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classes\\class-projects.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\reims\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\reims\\index.php",
+              "RelativeToolTip": "index.php",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAlwFcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T10:17:12.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "class-projects.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\reims\\classes\\class-projects.php",
+              "RelativeDocumentMoniker": "classes\\class-projects.php",
+              "ToolTip": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\reims\\classes\\class-projects.php",
+              "RelativeToolTip": "classes\\class-projects.php",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T06:48:43.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "class-wer_pkdb.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\reims\\classes\\class-wer_pkdb.php",
+              "RelativeDocumentMoniker": "classes\\class-wer_pkdb.php",
+              "ToolTip": "C:\\xampp\\htdocs\\wordpress652\\wp-content\\plugins\\reims\\classes\\class-wer_pkdb.php",
+              "RelativeToolTip": "classes\\class-wer_pkdb.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T06:48:21.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
