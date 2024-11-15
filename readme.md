@@ -1,0 +1,2 @@
+ This inventory management plugin aims to empower wholesalers, Shop Owners, distributors and Stock Managers by providing a comprehensive toolset for managing their commodities efficiently. With its intuitive design and essential features, they can streamline their operations, improve inventory accuracy, and strengthen their relationships with distributors. As you experience this plugin, consider incorporating user feedback to enhance functionality and user experience further.
+
